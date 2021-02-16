@@ -1,0 +1,58 @@
+/*------------------------------*/
+/* item：商品情報ページのスタイル
+/*------------------------------*/
+
+.item_detail{
+    display: flex;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+
+.item_left{
+    margin-right: 80px;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: auto;
+}
+
+.item_left img{
+    width: 100px;
+}
+
+.itempage-name{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.itempage-category{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.itempage-price{
+    font-size: 20px;
+    font-weight: bold;
+    color: #e60012;
+    margin-bottom: 10px;
+}
+
+.itempage-text{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.container-purchase {
+    display: flex;
+    width: 80%;
+}
+.cartin-number{
+    width: 60px;
+    height: 30px;
+}
+.btn-cartin{
+    width: 150px;
+    margin-left: 20px;
+    height: 30px;
+}

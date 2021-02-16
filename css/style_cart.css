@@ -1,0 +1,29 @@
+.div_btns{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+.btn-list{
+    display: flex;
+}
+
+.btn-buy{
+    margin-right: auto;
+    margin-left: 10px;
+    border-style: solid;
+    background-color: #ffab23;
+    border-color:  #aaa69d;
+    border-width: 2px;
+    padding: 10px 40px 10px 40px;
+}
+
+.btn-calculate{
+    margin-right: 10px;
+    margin-left: auto;
+    border-style: solid;
+    border-color: #ffab23;
+    border-width: 2px;
+    padding: 10px 40px 10px 40px;
+}
